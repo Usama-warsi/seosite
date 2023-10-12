@@ -1,0 +1,1 @@
+  <img src="{{ setting('website_logo_dark') }}" alt="{{ config('app.name') }}"  class="my-2 sidebar-brand-full" width="150px">

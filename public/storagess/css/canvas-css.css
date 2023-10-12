@@ -1,0 +1,23 @@
+:root {
+                             --bs-primary: #FF4001;
+                             --bs-link-color: #FF4001;
+                             --bs-link-hover-color: #FF4001;
+                             --bs-btn-border-color: #FF4001;
+                        
+                        --bs-body-font-size: 1rem;
+                        }.btn-primary {
+                          --bs-btn-border-color: #FF4001;
+                          --bs-btn-bg: #FF4001;
+                          --bs-btn-hover-bg: #ff4301;
+                          --bs-btn-active-bg: #ff4301;
+                          --bs-btn-hover-border-color: #ff4301;
+                          --bs-btn-btn-active-border-color: #ff4301;
+                        }
+                        .btn-outline-primary {
+                          --bs-btn-border-color: #FF4001;
+                          --bs-btn-color: #FF4001;
+                          --bs-btn-hover-bg: #ff4301;
+                          --bs-btn-active-bg: #ff4301;
+                          --bs-btn-hover-border-color: #ff4301;
+                          --bs-btn-active-border-color: #ff4301;
+                        }.auth-body{--bs-auth-bg: url('https://dev.seositechecker.pro/storage/uploads/Contact us-cuate.png')}
